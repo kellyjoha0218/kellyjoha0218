@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**kellyjoha0218/kellyjoha0218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hola soy Kelly!
 
-Here are some ideas to get you started:
+💻 Me especialicé en Análisis y Desarrollo de Software<br/>
+🚀 Sobre mí<br/>
+📊📊 Tengo un Diplomado en Data Science en [Gem Educa] (https://gemeduca.com/). En la actualidad, sigo ampliando mis conocimientos con cursos de análisis de datos y desarrollo web en [Udemy] (https://www.udemy.com/)<br/>
+🚀 Apasionada por la programación, la ciencia de datos y el aprendizaje continuo en tecnología<br/>
+📫 ¿Quieres contactarme? [kellyjoha656@gmail.com]<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Compartiendo mi viaje y crecimiento en el mundo del desarrollo y el análisis de datos.<br/>
+
+
+![Magdeline's GitHub stats](https://github-readme-stats.vercel.app/api?username=kellyjoha0218&count_private=true&show_icons=true&theme=radical&hide_rank=false)]
